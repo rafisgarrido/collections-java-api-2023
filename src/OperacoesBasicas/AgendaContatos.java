@@ -1,4 +1,4 @@
-package Ordenacao;
+package OperacoesBasicas;
 
 import java.util.HashMap;
 import java.util.Map;
