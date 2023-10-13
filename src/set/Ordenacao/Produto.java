@@ -1,6 +1,4 @@
-package Ordenacao;
-
-import com.sun.security.auth.PrincipalComparator;
+package set.Ordenacao;
 
 import java.util.Comparator;
 import java.util.Objects;

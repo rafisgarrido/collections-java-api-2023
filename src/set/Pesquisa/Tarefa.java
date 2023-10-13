@@ -1,6 +1,4 @@
-package Pesquisa;
-
-import java.util.Objects;
+package set.Pesquisa;
 
 public class Tarefa {
     //atributos
